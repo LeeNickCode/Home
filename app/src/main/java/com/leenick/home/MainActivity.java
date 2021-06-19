@@ -4,9 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.alibaba.android.arouter.facade.annotation.Route;
-
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
