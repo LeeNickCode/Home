@@ -1,4 +1,4 @@
-package com.leenick.home;
+package com.leenick.Home;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.leenick.home;
+package com.leenick.Home;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.leenick.home", appContext.getPackageName());
+        assertEquals("com.leenick.home.test", appContext.getPackageName());
     }
 }
